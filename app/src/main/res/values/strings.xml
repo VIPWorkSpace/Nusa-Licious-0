@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NusaL</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="lupa_password">Lupa password?</string>
+    <string name="login">MASUK</string>
+    <string name="phone">Nomor Handphone</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="register">DAFTAR AKUN</string>
+    <string name="welcome">SELAMAT DATANG\nDI\nNusaLicious</string>
+    <string name="logo">N</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rice_box">Nasi\nKotak</string>
+    <string name="buffet">Prasmanan</string>
+    <string name="office">Kantoran</string>
+    <string name="breaking">Coffee_Break</string>
+    <string name="shaped">Tumpeng</string>
+    <string name="Basket">Rantangan</string>
+    <string name="traditional">Tradisional</string>
+    <string name="anymore">Lainnya</string>
+    <string name="remove">Hapus</string>
+    <string name="buy">Beli</string>
+    <string name="detail">detail menu</string>
+    <string name="title_menu">title menu</string>
+    <string name="Title">Judul</string>
+    <string name="rp">Rp.</string>
+    <string name="date">Tanggal Pengiriman*</string>
+    <string name="time">Pilih Jam</string>
+</resources>
